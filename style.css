@@ -1,5 +1,11 @@
+html, body {
+  margin: 0;
+}
+
 .container{
   display: flex;
   justify-content: center;
-  border: 1px dotted black;
+  border: 1px dotted white;
+  background-color: black;
+  color: white;
 }
